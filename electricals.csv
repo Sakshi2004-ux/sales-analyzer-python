@@ -1,0 +1,134 @@
+country, order_value_EUR ,	 cost ,date	category,customer_name,	sales_manager,sales_rep	,device_type,order_idSpain,81412.1,64747.04,11/6/2019,Electronics,Johns and Sons,Emalia Dinse,Bertha Walbrook,PC,67-3929836
+Portugal,121318.55,102890.26,3/10/2020,Electronics,Jacobson, Marvin and Brown,Celine Tumasian,Aurelie Wren,Tablet,48-0713329
+France,55804.05,46401.07,3/5/2019,Electronics,Rowe, Hermiston and Kessler,Othello Bowes,Crysta Halls,PC,57-6995715
+Portugal,84767.77,68950.1,1/18/2020,Electronics,McGlynn-Bergstrom,Celine Tumasian,Smitty Culverhouse,Mobile,20-3441688
+Portugal,143107.89,121241.0,11/2/2020,Electronics,Kirlin and Sons,Celine Tumasian,Hortense Gerring,Mobile,18-0704377
+Portugal,136324.9,110436.8,10/29/2019,Electronics,Walter LLC,Celine Tumasian,Hortense Gerring,Tablet,76-2572347
+France,224626.25,189988.88,7/21/2020,Electronics,Christiansen, Donnelly and Bechtelar,Othello Bowes,Ora Grennan,PC,69-1300467
+France,144640.8,118345.1,4/11/2019,Electronics,Murray, Reichel and Nolan,Othello Bowes,Avrit Chanders,PC,77-7771177
+Sweden,53593.86,45629.81,7/12/2020,Electronics,Friesen-Rath,Maxie Marrow,Caro Morfield,PC,71-4409662
+France,107586.21,94525.24,6/7/2020,Electronics,Spencer, Rogahn and Muller,Othello Bowes,Amelina Piscopiello,PC,20-3384992
+Ireland,135424.06,116275.1,1/15/2020,Electronics,Hamill, Kulas and Roob,Glenine Suttaby,Palm Wetherald,PC,43-4245267
+Germany,92868.37,79068.13,3/30/2020,Electronics,Fisher, Morar and Skiles,Rickard Doogood,Casie MacBain,PC,88-8436664
+Ireland,84877.87,68454.0,12/1/2019,Electronics,Zieme, Bailey and Herzog,Glenine Suttaby,Bunnie Tonbridge,PC,30-8840089
+Sweden,239423.57,199152.52,12/8/2019,Electronics,Hamill, Kulas and Roob,Maxie Marrow,Madelon Bront,Mobile,94-1762263
+Portugal,28859.73,23656.32,1/9/2019,Electronics,Larkin-Collier,Celine Tumasian,Corene Shirer,Mobile,82-0537890
+Sweden,70596.7,60564.91,2/9/2020,Electronics,Hilll-Vandervort,Maxie Marrow,Alyosha Meah,PC,51-0685379
+UK,126979.62,105113.73,9/26/2019,Electronics,Dibbert Inc,Jessamine Apark,Genevra Charrisson,PC,15-5051694
+France,69126.5,55902.6,12/8/2019,Electronics,Farrell, Swaniawski and Crist,Othello Bowes,Avrit Chanders,PC,07-3201531
+Sweden,20226.11,17408.61,2/23/2019,Electronics,Larkin-Collier,Maxie Marrow,Caro Morfield,PC,21-3278349
+Portugal,118321.11,94822.54,11/23/2020,Electronics,Tillman and Sons,Celine Tumasian,Aurelie Wren,Tablet,20-7636879
+UK,154715.49,126572.74,10/23/2020,Electronics,Smith Group,Jessamine Apark,Genevra Charrisson,PC,46-1054213
+Sweden,92877.57,75936.7,4/5/2020,Electronics,Wisoky Inc,Maxie Marrow,Madelon Bront,Mobile,40-9497268
+Sweden,157683.41,130624.94,6/8/2019,Electronics,Hegmann Group,Maxie Marrow,Alyosha Meah,Tablet,17-0893784
+France,56106.13,45081.27,3/12/2020,Electronics,Rowe, Hermiston and Kessler,Othello Bowes,Amelina Piscopiello,PC,24-3140242
+Bulgaria,147672.87,129110.39,10/15/2019,Electronics,Homenick-Marvin,Charil Alpe,Bernadine Fullagar,PC,81-7970957
+Portugal,165696.9,132275.84,10/22/2020,Electronics,Franecki-White,Celine Tumasian,Aurelie Wren,PC,03-0455038
+Portugal,148037.71,117867.62,4/14/2020,Electronics,Romaguera-Dietrich,Celine Tumasian,Corene Shirer,PC,10-5899580
+Ireland,55539.67,45620.29,3/21/2020,Electronics,Altenwerth-Konopelski,Glenine Suttaby,Palm Wetherald,PC,10-9241948
+Portugal,100469.75,82566.04,5/17/2019,Electronics,Johns and Sons,Celine Tumasian,Aurelie Wren,PC,80-2242820
+France,176114.73,149257.23,11/24/2020,Electronics,Johns and Sons,Othello Bowes,Maighdiln Upcraft,PC,97-4830372
+Sweden,132632.97,112035.07,4/23/2019,Electronics,Keeling, Monahan and Pollich,Maxie Marrow,Anita Woakes,PC,05-5082715
+Finland,35619.28,28192.66,1/8/2019,Electronics,Murray, Reichel and Nolan,Hube Corey,Wat Bowkley,PC,18-8528486
+France,165262.34,142621.4,5/19/2020,Electronics,Altenwerth-Konopelski,Othello Bowes,Amelina Piscopiello,Mobile,96-0020600
+Portugal,164117.24,133509.37,5/28/2020,Electronics,Zieme, Bailey and Herzog,Celine Tumasian,Corene Shirer,PC,88-7664123
+Sweden,117733.51,97294.97,7/13/2019,Electronics,Connelly-Mohr,Maxie Marrow,Tarrah Castelletti,PC,45-5509135
+Portugal,86083.27,72309.95,11/30/2019,Electronics,Connelly-Mohr,Celine Tumasian,Hortense Gerring,PC,80-7090422
+France,50516.2,43918.78,3/22/2019,Electronics,Wiza and Sons,Othello Bowes,Maighdiln Upcraft,PC,50-1986322
+Germany,190100.96,160749.37,12/20/2019,Electronics,Walter LLC,Rickard Doogood,Casie MacBain,PC,38-8840357
+Spain,68745.86,58014.63,4/9/2019,Electronics,Labadie and Sons,Emalia Dinse,Manuel Goudie,PC,11-2988171
+Denmark,69017.42,55897.21,4/2/2020,Electronics,Hegmann Group,Modestia Byfford,Case Desorts,PC,38-3894304
+Portugal,47186.74,38112.73,7/28/2019,Electronics,Hartmann, Hane and Pfannerstill,Celine Tumasian,Aurelie Wren,PC,34-8903845
+France,16388.9,13430.7,3/15/2020,Electronics,West-Cummings,Othello Bowes,Crysta Halls,PC,30-9690927
+France,141112.84,120044.69,8/8/2020,Electronics,Gislason-Stanton,Othello Bowes,Avrit Chanders,Mobile,47-9701762
+Netherlands,99731.4,84731.8,1/12/2020,Electronics,Smith Group,Denice Amberg,Nero Harbisher,PC,81-9170157
+France,32661.62,27922.42,2/8/2020,Electronics,Zieme, Bailey and Herzog,Othello Bowes,Amelina Piscopiello,PC,24-7300640
+Luxembourg,104743.22,83281.33,3/24/2019,Electronics,Johns and Sons,Ilsa Kob,Jocelyn Laurentino,Mobile,53-0205940
+Netherlands,119858.15,99997.65,11/19/2020,Electronics,McGlynn-Prosacco,Denice Amberg,Nero Harbisher,PC,10-0386535
+Germany,61968.26,50690.04,12/27/2020,Electronics,Romaguera-Dietrich,Rickard Doogood,Casie MacBain,PC,22-7259031
+Ireland,271465.15,217959.37,7/3/2019,Electronics,Corwin and Sons,Glenine Suttaby,Bunnie Tonbridge,Mobile,44-9239029
+Ireland,65831.42,52487.39,1/12/2019,Electronics,Christiansen, Donnelly and Bechtelar,Glenine Suttaby,Palm Wetherald,PC,43-5417299
+France,87404.0,69363.81,12/26/2019,Electronics,Johns and Sons,Othello Bowes,Maighdiln Upcraft,PC,79-3154360
+Austria,51090.76,40739.77,3/12/2020,Electronics,Smith Group,Orsa Geekin,Bank Coumbe,PC,85-2223377
+Spain,44038.31,36252.34,1/24/2020,Electronics,Corwin and Sons,Emalia Dinse,Manuel Goudie,PC,94-0775004
+UK,227856.66,199010.01,7/20/2020,Electronics,Keeling, Monahan and Pollich,Jessamine Apark,Jay Morefield,PC,11-5257937
+Sweden,67161.99,55764.6,9/20/2019,Electronics,Lubowitz, McLaughlin and Erdman,Maxie Marrow,Tarrah Castelletti,PC,22-7587128
+Spain,131409.9,115325.33,11/15/2020,Electronics,McClure Inc,Emalia Dinse,Bertha Walbrook,PC,48-7252604
+Finland,180250.02,147354.39,6/3/2019,Electronics,Hartmann, Hane and Pfannerstill,Hube Corey,Mellicent Mattys,PC,57-5645459
+Portugal,49990.72,42927.03,1/4/2020,Electronics,Rowe, Hermiston and Kessler,Celine Tumasian,Smitty Culverhouse,PC,68-6382353
+Portugal,105374.44,89779.02,2/18/2020,Electronics,Stehr LLC,Celine Tumasian,Brynn Dempster,PC,74-8625042
+France,148405.47,128845.63,10/27/2019,Electronics,Johns and Sons,Othello Bowes,Amelina Piscopiello,PC,82-1082124
+Portugal,115718.87,100640.7,4/24/2019,Electronics,Hilll-Vandervort,Celine Tumasian,Aurelie Wren,PC,84-7042200
+Sweden,68086.96,58759.05,11/26/2019,Electronics,Stamm-Zulauf,Maxie Marrow,Tarrah Castelletti,PC,20-1013432
+Sweden,124093.76,105231.51,10/15/2019,Electronics,Armstrong-Little,Maxie Marrow,Anita Woakes,PC,87-0122224
+Portugal,85390.17,74400.46,1/25/2019,Electronics,Stamm-Zulauf,Celine Tumasian,Brynn Dempster,PC,14-4225824
+UK,87321.89,69254.99,1/17/2019,Electronics,Tillman and Sons,Jessamine Apark,Winny Agnolo,Mobile,62-5120016
+Sweden,205059.8,173029.46,6/23/2020,Electronics,Stehr-Bogan,Maxie Marrow,Caro Morfield,PC,19-4538571
+Portugal,119409.43,102656.29,6/25/2019,Electronics,Spencer, Rogahn and Muller,Celine Tumasian,Hortense Gerring,PC,02-9253490
+Sweden,263713.12,216165.64,6/30/2020,Electronics,Schmitt, Purdy and Johnson,Maxie Marrow,Tarrah Castelletti,PC,78-6165949
+France,151855.04,129486.79,1/16/2019,Electronics,Considine-Fisher,Othello Bowes,Amelina Piscopiello,PC,54-1473475
+Finland,106115.85,93063.6,2/15/2020,Electronics,Johns and Sons,Hube Corey,Mellicent Mattys,Tablet,51-4531731
+Sweden,106076.67,84765.87,10/10/2019,Electronics,Romaguera-Haley,Maxie Marrow,Madelon Bront,Mobile,97-5858605
+Netherlands,23290.84,19147.4,2/25/2019,Electronics,Konopelski LLC,Denice Amberg,Nero Harbisher,PC,02-2183787
+Bulgaria,124611.61,107776.58,9/19/2020,Electronics,Wiza and Sons,Charil Alpe,Shermy McGready,PC,86-0928074
+Portugal,152442.32,122258.74,10/6/2020,Electronics,Johns and Sons,Celine Tumasian,Aurelie Wren,PC,04-6161825
+France,57292.84,45908.75,10/3/2019,Electronics,Zieme, Bailey and Herzog,Othello Bowes,Ora Grennan,PC,18-5234470
+Netherlands,200472.46,170181.07,6/19/2020,Electronics,Wiza and Sons,Denice Amberg,Nero Harbisher,PC,98-5774102
+France,35214.85,27985.24,3/13/2019,Electronics,Lueilwitz, Kerluke and Lesch,Othello Bowes,Ora Grennan,PC,46-5580805
+Portugal,112481.44,96700.29,4/11/2020,Electronics,Dickinson, Hyatt and Berge,Celine Tumasian,Hortense Gerring,Mobile,97-6414953
+France,90228.68,77966.6,1/27/2019,Electronics,Wiza and Sons,Othello Bowes,Avrit Chanders,PC,64-9816105
+France,122468.33,103032.61,9/8/2020,Electronics,Johns and Sons,Othello Bowes,Avrit Chanders,Mobile,53-7680732
+UK,86071.63,71198.45,11/13/2019,Electronics,Gislason-Stanton,Jessamine Apark,Genevra Charrisson,Tablet,66-6360568
+Spain,107359.01,90868.67,10/29/2019,Electronics,Kirlin and Sons,Emalia Dinse,Perri Aldersley,PC,78-7666796
+Portugal,66146.57,56145.21,4/7/2020,Electronics,Hessel-Stiedemann,Celine Tumasian,Brynn Dempster,PC,04-1808253
+Ireland,99887.86,84045.65,3/10/2020,Electronics,Friesen-Rath,Glenine Suttaby,Bunnie Tonbridge,PC,64-0103144
+Sweden,83782.11,67310.55,2/10/2019,Electronics,Christiansen, Donnelly and Bechtelar,Maxie Marrow,Madelon Bront,PC,42-2439801
+Sweden,118030.7,97304.51,9/4/2019,Electronics,Dickinson, Hyatt and Berge,Maxie Marrow,Madelon Bront,PC,80-1021367
+UK,66613.31,55462.24,9/25/2019,Electronics,Labadie and Sons,Jessamine Apark,Genevra Charrisson,PC,38-8230515
+Portugal,206869.73,180928.27,7/20/2020,Electronics,Spencer, Rogahn and Muller,Celine Tumasian,Corene Shirer,PC,11-2653878
+France,63690.72,53455.62,8/27/2020,Electronics,Hegmann Group,Othello Bowes,Crysta Halls,Mobile,74-9856135
+Sweden,88832.28,71501.1,12/23/2019,Electronics,Murray, Reichel and Nolan,Maxie Marrow,Tarrah Castelletti,PC,90-3993986
+France,98915.41,85176.06,4/2/2020,Electronics,Schoen-Keeling,Othello Bowes,Ora Grennan,Mobile,63-5897834
+Luxembourg,71360.36,59750.03,1/2/2019,Electronics,Tillman and Sons,Ilsa Kob,Jocelyn Laurentino,PC,40-9830607
+Finland,52388.85,45641.17,7/31/2020,Electronics,Johns and Sons,Hube Corey,Mellicent Mattys,PC,55-6785409
+Sweden,178304.35,153573.54,12/9/2020,Electronics,Dibbert Inc,Maxie Marrow,Tarrah Castelletti,PC,12-4881666
+UK,80013.81,65587.32,1/27/2020,Electronics,Romaguera-Dietrich,Jessamine Apark,Winny Agnolo,PC,86-7866497
+Bulgaria,81482.69,64721.7,2/9/2019,Electronics,Johns and Sons,Charil Alpe,Shermy McGready,PC,28-0362135
+Portugal,76943.74,62870.73,6/1/2019,Electronics,Johns and Sons,Celine Tumasian,Smitty Culverhouse,PC,50-0521963
+Sweden,153823.74,129258.09,11/30/2020,Electronics,West-Cummings,Maxie Marrow,Anita Woakes,Mobile,53-0009701
+France,173418.59,140746.53,5/19/2019,Electronics,Hessel-Stiedemann,Othello Bowes,Maighdiln Upcraft,PC,03-5073152
+France,27400.69,22832.99,9/18/2019,Electronics,Friesen and Sons,Othello Bowes,Maighdiln Upcraft,PC,19-8109416
+France,71079.8,56778.54,11/15/2019,Electronics,Swaniawski, Runolfsson and Green,Othello Bowes,Avrit Chanders,PC,30-9137723
+Sweden,43158.94,36244.88,5/13/2019,Electronics,West-Cummings,Maxie Marrow,Anita Woakes,PC,55-4422832
+Germany,44118.5,38250.74,3/4/2020,Electronics,Romaguera-Dietrich,Rickard Doogood,Casie MacBain,Mobile,77-6124790
+Sweden,156505.37,128647.41,5/4/2019,Electronics,Schmitt, Purdy and Johnson,Maxie Marrow,Alyosha Meah,PC,76-8416893
+France,184221.2,150324.5,6/15/2019,Electronics,Hessel-Stiedemann,Othello Bowes,Amelina Piscopiello,PC,70-3373325
+France,197581.29,169485.23,12/13/2019,Electronics,Christiansen, Donnelly and Bechtelar,Othello Bowes,Ora Grennan,PC,74-6221213
+France,124784.67,106853.11,5/22/2020,Electronics,Swaniawski, Runolfsson and Green,Othello Bowes,Ora Grennan,Tablet,44-2757396
+Sweden,103638.67,84030.23,10/22/2020,Electronics,Leffler, Prohaska and Streich,Maxie Marrow,Anita Woakes,PC,24-6905998
+Spain,58933.16,51855.29,9/20/2019,Electronics,Schowalter, Lesch and Beahan,Emalia Dinse,Bertha Walbrook,Mobile,67-2823354
+France,310539.0,248275.93,12/11/2020,Electronics,Johns and Sons,Othello Bowes,Ora Grennan,PC,57-2495984
+Sweden,90602.07,71630.0,3/5/2020,Electronics,McGlynn-Bergstrom,Maxie Marrow,Tarrah Castelletti,PC,09-3747816
+Portugal,25834.34,22450.04,3/13/2020,Electronics,Romaguera-Dietrich,Celine Tumasian,Brynn Dempster,Mobile,49-9010863
+France,95966.17,75976.42,8/24/2019,Electronics,Littel-Blick,Othello Bowes,Amelina Piscopiello,PC,90-4449856
+Sweden,110837.96,92106.34,2/25/2019,Electronics,Dickinson, Hyatt and Berge,Maxie Marrow,Alyosha Meah,PC,52-7049356
+Ireland,37892.58,30010.92,1/21/2019,Electronics,Johns and Sons,Glenine Suttaby,Palm Wetherald,PC,59-0348389
+Portugal,129022.02,104585.25,6/20/2020,Electronics,Walter LLC,Celine Tumasian,Corene Shirer,PC,51-2167412
+Sweden,100578.6,83208.68,1/14/2019,Electronics,Labadie and Sons,Maxie Marrow,Caro Morfield,PC,96-1388247
+Portugal,90994.31,72540.66,5/9/2020,Electronics,Zieme, Bailey and Herzog,Celine Tumasian,Brynn Dempster,PC,09-7835975
+Germany,30177.8,23924.96,10/6/2020,Electronics,Leffler, Prohaska and Streich,Rickard Doogood,Casie MacBain,Mobile,61-4937643
+Germany,163546.81,133307.0,5/7/2019,Electronics,Lueilwitz, Kerluke and Lesch,Rickard Doogood,Casie MacBain,PC,94-2134593
+Sweden,69626.39,57295.56,6/15/2019,Electronics,Hamill, Kulas and Roob,Maxie Marrow,Madelon Bront,PC,06-2196763
+Sweden,185778.3,154734.75,6/25/2020,Electronics,Jacobson, Marvin and Brown,Maxie Marrow,Tarrah Castelletti,PC,76-5888381
+France,40148.49,31954.18,2/2/2019,Electronics,Hane Inc,Othello Bowes,Amelina Piscopiello,PC,88-8981595
+Portugal,157942.65,136620.39,6/23/2020,Electronics,Hessel-Stiedemann,Celine Tumasian,Brynn Dempster,PC,95-6123269
+France,203604.46,175344.16,6/26/2019,Electronics,Kirlin and Sons,Othello Bowes,Crysta Halls,Mobile,29-5478106
+Bulgaria,149372.32,130611.16,12/20/2020,Electronics,Abbott, Roberts and Torp,Charil Alpe,Shermy McGready,Mobile,63-6848448
+Portugal,64762.89,54238.92,2/6/2019,Electronics,Schoen-Keeling,Celine Tumasian,Hortense Gerring,PC,42-2646312
+France,40535.64,35480.85,1/13/2019,Electronics,Kihn Inc,Othello Bowes,Crysta Halls,PC,72-2796883
+Finland,33190.03,28397.39,8/18/2020,Electronics,Homenick-Marvin,Hube Corey,Wat Bowkley,Tablet,49-2458036
+UK,176662.26,146859.34,6/28/2020,Electronics,Friesen-Rath,Jessamine Apark,Genevra Charrisson,PC,44-9908550
+France,33013.08,26743.9,11/28/2020,Electronics,Romaguera-Dietrich,Othello Bowes,Amelina Piscopiello,PC,89-0300778
+Spain,127143.54,105033.28,10/3/2019,Electronics,Murray, Reichel and Nolan,Emalia Dinse,Bertha Walbrook,PC,58-2235320
+Sweden,94085.5,77498.23,1/19/2020,Electronics,Zieme, Bailey and Herzog,Maxie Marrow,Caro Morfield,PC,34-1570975
+Portugal,74958.46,65806.03,8/5/2020,Electronics,Hessel-Stiedemann,Celine Tumasian,Smitty Culverhouse,PC,31-8846200
