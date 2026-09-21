@@ -1,4 +1,5 @@
-country, order_value_EUR ,	 cost ,date	category,customer_name,	sales_manager,sales_rep	,device_type,order_idSpain,81412.1,64747.04,11/6/2019,Electronics,Johns and Sons,Emalia Dinse,Bertha Walbrook,PC,67-3929836
+country, order_value_EUR ,	 cost ,date,category,customer_name,	sales_manager,sales_rep	,device_type,order_id
+Spain,81412.1,64747.04,11/6/2019,Electronics,Johns and Sons,Emalia Dinse,Bertha Walbrook,PC,67-3929836
 Portugal,121318.55,102890.26,3/10/2020,Electronics,Jacobson, Marvin and Brown,Celine Tumasian,Aurelie Wren,Tablet,48-0713329
 France,55804.05,46401.07,3/5/2019,Electronics,Rowe, Hermiston and Kessler,Othello Bowes,Crysta Halls,PC,57-6995715
 Portugal,84767.77,68950.1,1/18/2020,Electronics,McGlynn-Bergstrom,Celine Tumasian,Smitty Culverhouse,Mobile,20-3441688
